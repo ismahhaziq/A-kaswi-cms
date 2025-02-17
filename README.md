@@ -11,4 +11,6 @@ KASWI CMS
 
 ### 4) Cari A-kaswi-cms (mesti duk atas punya)
 
-### 5) Setel
+### 5) Tekan KASWI CMS.draw.io
+
+### 6) Setel
