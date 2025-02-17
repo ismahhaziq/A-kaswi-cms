@@ -9,4 +9,6 @@ KASWI CMS
 
 ### 3) Open Existing Diagram
 
-### 4) Cari 
+### 4) Cari A-kaswi-cms (mesti duk atas punya)
+
+### 5) Setel
